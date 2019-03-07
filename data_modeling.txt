@@ -1,0 +1,13 @@
+content_to_search: 
+{
+	'search_term': '',
+	'search_prefix': '',
+	'sourceContent': '',
+	'sentences': [
+		{
+			'text': '',
+			'keywords': '',
+			'images': ''
+		}
+	]
+}

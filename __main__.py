@@ -1,3 +1,4 @@
-import user_input
+def get_content_search():
+	return input('What do you want make a video? ')
 
-user_input.run()
+print(get_content_search())
